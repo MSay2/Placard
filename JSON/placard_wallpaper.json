@@ -1,29 +1,6 @@
 {
 	"wallpapers": 
 	[   {
-	        "section": "Heart",
-	        "item":
-	        [   {
-	                "url": "https://www.aht.li/3178251/Heart_1.png",
-	                "title": "Heart 1",
-	                "size": "14.25",
-	                "resolution": "1000x1000 (1,0 MP)"
-	            },
-	            {
-	                "url": "https://www.aht.li/3178252/Heart_2.png",
-	                "title": "Heart 2",
-	                "size": "15.05",
-	                "resolution": "1000x1000 (1,0 MP)"
-	            },
-	            {
-	                "url": "https://www.aht.li/3178253/Heart_3.png",
-	                "title": "Heart 3",
-	                "size": "15.13",
-	                "resolution": "1000x1000 (1,0 MP)"
-	            }
-	        ]
-	    },
-	    {
 	        "section": "Mountains",
 	        "item":
 	        [   {
@@ -125,6 +102,29 @@
 	                "title": "Terra 4",
 	                "size": "13.43",
 	                "resolution": "1280x1280 (1,6 MP)"
+	            }
+	        ]
+	    },
+	    {
+	        "section": "Heart",
+	        "item":
+	        [   {
+	                "url": "https://www.aht.li/3178251/Heart_1.png",
+	                "title": "Heart 1",
+	                "size": "14.25",
+	                "resolution": "1000x1000 (1,0 MP)"
+	            },
+	            {
+	                "url": "https://www.aht.li/3178252/Heart_2.png",
+	                "title": "Heart 2",
+	                "size": "15.05",
+	                "resolution": "1000x1000 (1,0 MP)"
+	            },
+	            {
+	                "url": "https://www.aht.li/3178253/Heart_3.png",
+	                "title": "Heart 3",
+	                "size": "15.13",
+	                "resolution": "1000x1000 (1,0 MP)"
 	            }
 	        ]
 	    }
