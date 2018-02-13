@@ -186,80 +186,103 @@
 	"wallpapers_list": 
     [
         {
-            "url": "https://img15.hostingpics.net/pics/790222sushi3.png",
-            "title": "Sushi 1"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/191211sushi4.png",
-            "title": "Sushi 2"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/810733sushi5.png",
-            "title": "Sushi 3"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/389584sushi6.png",
-            "title": "Sushi 4"
-        },
-        {
+            "thumbId": "1eMfvc7E0aAeZV-Q-dXOvZpNnNlAqj4wk",
             "url": "https://img15.hostingpics.net/pics/524940sushi1.png",
-            "title": "Sushi 5"
+            "title": "Sushi 1",
+            "author": "MSay2",
+	        "size": "8.05",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
         },
         {
+            "thumbId": "1BR1GD0b1akxwHCrIi5mGXaJp7CIsN0Lb",
             "url": "https://img15.hostingpics.net/pics/237771sushi2.png",
-            "title": "Sushi 6"
+            "title": "Sushi 2",
+            "author": "MSay2",
+	        "size": "7.91",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
         },
         {
+            "thumbId": "1DVOrSAALeakZYBJzC5fO5IEdI-l3-jhg",
+            "url": "https://img15.hostingpics.net/pics/790222sushi3.png",
+            "title": "Sushi 3",
+            "author": "MSay2",
+	        "size": "7.93",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
+        },
+        {
+            "thumbId": "14a3RsNuZbCLAK-EMQlpuMCJEMFYnuPQ2",
+            "url": "https://img15.hostingpics.net/pics/191211sushi4.png",
+            "title": "Sushi 4",
+            "author": "MSay2",
+	        "size": "8.38",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
+        },
+        {
+            "thumbId": "1015MHEvpEpQAxbGLDMj3WNlvX4Zubj7H",
+            "url": "https://img15.hostingpics.net/pics/810733sushi5.png",
+            "title": "Sushi 5",
+            "author": "MSay2",
+	        "size": "8.11",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
+        },
+        {
+            "thumbId": "1HE1P6JRYDlE0-V2cEaLWqyV_HaEtFQiB",
+            "url": "https://img15.hostingpics.net/pics/389584sushi6.png",
+            "title": "Sushi 6",
+            "author": "MSay2",
+	        "size": "8.01",
+	        "resolution": "1000x1000 (1,0 MP)",
+	        "mimeType": "png"
+        },
+        {
+            "thumbId": "1wzaU_aTeq3W25uHuq3HOXFpySE8XxkzQ",
             "url": "https://img15.hostingpics.net/pics/976511lina01.png",
-            "title": "Lina 1"
+            "title": "Lina 1",
+            "author": "MSay2",
+	        "size": "18.66",
+	        "resolution": "1280x1280 (1,6 MP)",
+	        "mimeType": "png"
         },
         {
+            "thumbId": "1wzaU_aTeq3W25uHuq3HOXFpySE8XxkzQ",
             "url": "https://img15.hostingpics.net/pics/366504lina02.png",
-            "title": "Lina 2"
+            "title": "Lina 2",
+            "author": "MSay2",
+	        "size": "19.12",
+	        "resolution": "1280x1280 (1,6 MP)",
+	        "mimeType": "png"
         },
         {
-            "url": "https://img15.hostingpics.net/pics/509006life01.png",
-            "title": "Life 1"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/309276life02.png",
-            "title": "Life 2"
-        },
-        {
+            "thumbId": "1uwSroHVTH0s-XqyoIM4BPUh8LA4nAMQE",
             "url": "https://img15.hostingpics.net/pics/391778lina03.png",
-            "title": "Lina 3"
+            "title": "Lina 3",
+            "author": "MSay2",
+	        "size": "20.31",
+	        "resolution": "1280x1280 (1,6 MP)",
+	        "mimeType": "png"
         },
         {
+            "thumbId": "1qlikuU9zKvibzkdseQAKKDcYPaVyBIIg",
             "url": "https://img15.hostingpics.net/pics/222897lina04.png",
-            "title": "Lina 4"
+            "title": "Lina 4",
+            "author": "MSay2",
+	        "size": "19.42",
+	        "resolution": "1280x1280 (1,6 MP)",
+	        "mimeType": "png"
         },
         {
-            "url": "https://img15.hostingpics.net/pics/553342life03.png",
-            "title": "Life 3"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/389423life04.png",
-            "title": "Life 4"
-        },
-        {
+            "thumbId": "1BoGJfKh49x9epfE5kayttGroATJc8uNP",
             "url": "https://img15.hostingpics.net/pics/715620lina05.png",
-            "title": "Lina 5"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/721382terra01.png",
-            "title": "Terra 1"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/897891terra02.png",
-            "title": "Terra 2"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/115570terra03.png",
-            "title": "Terra 3"
-        },
-        {
-            "url": "https://img15.hostingpics.net/pics/803955terra04.png",
-            "title": "Terra 4"
+            "title": "Lina 5",
+            "author": "MSay2",
+	        "size": "19.04",
+	        "resolution": "1280x1280 (1,6 MP)",
+	        "mimeType": "png"
         }
     ]
 }
